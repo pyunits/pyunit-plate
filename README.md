@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Python-3.7-green.svg)](https://pypi.org/project/pyunit-address/)
 
 ## 安装
-    pip install  pyunit-plate
+    pip install pyunit-plate
 
 ## 车牌种类
     97式军车牌
